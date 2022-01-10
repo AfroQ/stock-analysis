@@ -58,3 +58,15 @@ End Sub
 
 - The keyword to create a message box is `MsgBox`.
 - `MsgBox` takes in an **argument**, which, in our case, is what we want our pop-up box to display.
+
+**Arrays**
+
+```vb
+Dim ArrayName(number of values)
+
+' display values in the array
+for index = 0 to 11:
+	MsgBox(tickers(index))
+Next index
+```
+
