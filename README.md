@@ -15,7 +15,7 @@ My analysis shows that all 12 stocks performed significantly better in 2017 comp
 
 - Figure 2 below shows that in 2018, 10 of the 12 stocks experienced losses in value. The ENPH and RUN saw gains of over 80% which significant despite the apparently difficult financial year. 
 
-![2018_table](C:\Users\nyaku\OneDrive\Desktop\Repos\stock-analysis\Resources\2018_table.png)
+![2018_table](./Resources/2018_table.png)
 
 ​						*Figure 2: 2018 analysis results*
 
@@ -39,7 +39,7 @@ Next RowIndex
 
 Figure 3 below shows the time it took to run the version of the code for the year 2018. I had similar time output for 2017.
 
-![first_version_code_time](C:\Users\nyaku\OneDrive\Desktop\Repos\stock-analysis\practice_not_for_grading\first_version_code_time.png)
+![first_version_code_time](./practice_not_for_grading/first_version_code_time.png)
 
 ​						*Figure 3: Time taken to run script on 2018*
 
@@ -54,7 +54,7 @@ In the next iteration, I refactored the code so that instead of the code running
 
  The code ran in a much shorter time when refactored to be more efficient. Figure 4 below shows the time it took to run the code for 2018. I saw a similar time output for 2017. 
 
-![VBA_Challenge_2018](C:\Users\nyaku\OneDrive\Desktop\Repos\stock-analysis\Resources\VBA_Challenge_2018.png)
+![VBA_Challenge_2018](./Resources/VBA_Challenge_2018.png)
 
 ​						*Figure 4: Time taken to run refactored script on 2018*
 
