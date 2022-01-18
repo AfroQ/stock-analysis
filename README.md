@@ -9,7 +9,7 @@ My analysis shows that all 12 stocks performed significantly better in 2017 comp
 
 -  Figure 1 below shows that in 2017,  all except the TERP stock gained in value with four of the stock seeing gains above 100% at the end of the year. 
 
-  ![2017_table](C:\Users\nyaku\OneDrive\Desktop\Repos\stock-analysis\Resources\2017_table.png)
+  ![2017_table](./Resources/2017_table.png)
 
   ​					*Figure 1: 2017 analysis results*
 
